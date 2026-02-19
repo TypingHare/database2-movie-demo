@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# Gradle temporary files and build files
+/.gradle/
+/build/
+
+# JetBrains configuration files
+/.idea/
