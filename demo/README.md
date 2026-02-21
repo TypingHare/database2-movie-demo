@@ -1,15 +1,5 @@
 # Movie Demo
 
-## Clone This Repository
-
-1. Download `Git` from the official website (GPTs can help you with that).
-2. Open `GitBash` on Windows 11 or `Terminal` on Unix systems (macOS and Linux).
-3. Run the following command:
-   ```bash
-   git clone https://github.com/TypingHare/database2-movie-demo
-   ```
-4. This will download the repository from GitHub to your computer, and the folder is in the present working directory.
-
 ## Directory Structure
 
 ```python
